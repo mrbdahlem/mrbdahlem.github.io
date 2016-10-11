@@ -2,6 +2,6 @@
 
 Fork this repository to begin setting up your own website on github pages.
 
-Change the repository name to _username_.github.io
+Change the repository name to _your_username_.github.io
 
 Upload an index.html file to show the world.
